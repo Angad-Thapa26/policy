@@ -2,4 +2,4 @@ target: 192.168.204.134
 action: block
 protocol: tcp
 port: 80,443
-destination: facebook.com
+destination: angadthapa.com.np
